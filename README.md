@@ -1,11 +1,72 @@
+# 🚍 TransitPulse
 
-  # TransitPulse Mobile App Prototype
+AI-Powered Smart Public Transport Platform designed for Tier-2 and Tier-3 cities.
 
-  This is a code bundle for TransitPulse Mobile App Prototype. The original project is available at https://www.figma.com/design/sYR9gYmEvP47gIAEw2Xm0c/TransitPulse-Mobile-App-Prototype.
+TransitPulse helps commuters make smarter travel decisions through real-time tracking, ETA prediction, crowd analytics, safety features and sustainability insights.
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## ✨ Features
 
-  Run `npm run dev` to start the development server.
-  
+### 🧠 AI ETA Prediction
+- Real-time arrival predictions
+- Confidence scoring
+- Best-case and worst-case estimates
+
+### 🗺 Smart Live Map
+- Live vehicle tracking
+- Route visualization
+- Fleet monitoring
+
+### 👥 Crowd Analytics
+- Occupancy prediction
+- Peak-hour forecasting
+- Smart route recommendations
+
+### 🆘 Emergency SOS
+- One-tap emergency alerts
+- Multiple emergency categories
+- Safety-focused design
+
+### 🌱 Eco Impact Tracking
+- CO₂ savings estimation
+- Money saved insights
+- Sustainable travel awareness
+
+---
+
+## 🎨 Design Prototype
+
+Figma Prototype:
+
+https://www.figma.com/design/sYR9qYmEvP47pIAEw2Xm0c/TransitPulse-Mobile-App-Prototype
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Figma
+
+---
+
+## 🎯 Vision
+
+TransitPulse aims to modernize public transportation experiences using AI-driven insights, real-time data and user-centric design.
+
+Built with a focus on accessibility, sustainability and smarter urban mobility.
+
+---
+
+## 👨‍💻 Author
+
+Abhishek Dwivedi
+
+Portfolio:
+https://abhishekdwivedi-portfolio.vercel.app
+
+LinkedIn:
+https://www.linkedin.com/in/abhishekdwivedi29/
